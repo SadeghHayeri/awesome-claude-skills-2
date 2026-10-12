@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [swapwallet](https://github.com/SwapWallet/swapwallet-mcp/tree/main/skills/swapwallet) - Use the SwapWallet MCP server safely: crypto balances, P&L and history, plus swaps, transfers and withdrawals that run only after the user approves them in Telegram.
 
 ## 📰 Articles & Blog Posts
 
